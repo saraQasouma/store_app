@@ -1,16 +1,65 @@
-# store_app
+# 🛍️ Store App
 
-A new Flutter project.
+A simple product management app built with Flutter and Bloc.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- Display a list of products.
+- Add new products.
+- Edit and delete products.
+- State management using Cubit/Bloc.
+- Clean and smooth UI design.
+- Currently uses a Fake API for demonstration purposes.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🧰 Technologies Used
+
+- Flutter
+- Bloc / Cubit
+- Dio (for API handling)
+- Git & GitHub
+
+---
+
+## 📱 Screenshots
+
+![Home Screen](assets/screenshots/home.jpg)  
+*Home Screen showing all products*
+
+![Update Product](assets/screenshots/update.jpg)  
+*Edit product screen*
+
+![Create Product](assets/screenshots/create.jpg)  
+*Add new product screen*
+
+![Product Details](assets/screenshots/detail.jpg)  
+*Product details screen*
+
+---
+
+## ⚙️ How to Run
+
+1. Clone the repository:
+```bash
+   git clone https://github.com/saraQasouma/store_app.git
+```
+2. Navigate to the project directory:
+```bash
+   cd store_app
+```
+3. Get the dependencies:
+```bash
+   flutter pub get
+```
+4. Run the app:
+```bash
+   flutter run
+```
+---
+
+## 👩🏻‍💻 Author
+
+**Sara Qasouma**
